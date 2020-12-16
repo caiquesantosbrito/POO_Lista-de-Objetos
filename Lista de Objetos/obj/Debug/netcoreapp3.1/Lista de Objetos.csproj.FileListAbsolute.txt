@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.exe
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.deps.json
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.dll
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\bin\Debug\netcoreapp3.1\Lista de Objetos.pdb
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.dll
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.pdb
+C:\Users\caisb\OneDrive\Desktop\Lista de Objetos POO\Lista de Objetos\obj\Debug\netcoreapp3.1\Lista de Objetos.genruntimeconfig.cache
